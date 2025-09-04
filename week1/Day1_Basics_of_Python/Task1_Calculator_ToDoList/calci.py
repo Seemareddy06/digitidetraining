@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🧮 Simple Calculator")
+st.title(" Simple Calculator")
 
 # Input numbers
 num1 = st.number_input("Enter first number")
@@ -23,3 +23,4 @@ if st.button("Calculate"):
         else:
             result = "Error: Division by zero"
     st.write("### Result:", result)
+
