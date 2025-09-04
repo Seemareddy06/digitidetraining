@@ -1,0 +1,7 @@
+Monthly salary is the fixed amount an employee earns each month.
+Annual salary is calculated as:
+Annual salary = (Monthly salary × 12) - Deductions.
+Deductions include income tax, provident fund, professional tax, and insurance premiums.
+Gross salary is the total amount before deductions.
+Net salary = Gross salary - Deductions.
+Payslips are generated every month and show earnings, deductions, and net salary.
